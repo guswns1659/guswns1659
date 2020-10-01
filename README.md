@@ -1,9 +1,9 @@
 ## Hi there, I'm Hyunjun Son 👋
 
 ## Interest
-- Backend Skill 👍 : Java, Spring Boot, JPA(Hibernate)
-- Agile for fast feedback loops ✨ : TDD, Code Review, Pair Programming
-- Technical Paradigm 🔥 : Object Oriented Programming, Domain Driven Design
+- **Backend Skill** 👍 : Java, Spring Boot, JPA(Hibernate)
+- **Agile for fast feedback loops** ✨ : TDD, Code Review, Pair Programming
+- **Technical Paradigm** 🔥 : Object Oriented Programming, Domain Driven Design
 
 
 <p align="center">
