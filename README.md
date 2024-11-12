@@ -1,10 +1,19 @@
 ## Hi there, I'm Hyunjun Son 👋
 
-## Interest
-- **Backend Skill** 👍 : Java, Spring Boot, JPA(Hibernate)
+## Skill
+- **Languages** 👍 : Kotlin, Java, Typescript
+- **Framework & Library** 💪: Spring Boot, Spring Batch, Spring Data Jpa, Spring AOP, Gradle, resilience4j, React
+- **Infra** 👊: Kubernetes, Mysql, Redis, Kafka
+
+## Interests
+
 - **Agile for fast feedback loops** ✨ : TDD, Code Review, Pair Programming
 - **Technical Paradigm** 🔥 : Object Oriented Programming, Domain Driven Design
 
+## Specical Experience
+- 카카오페이 기술블로그 2건 발행
+    - [쓰기만 했던 개발자가 궁금해서 찾아본 쿠버네티스 내부 1편](https://tech.kakaopay.com/post/jack-k8s-internals-part-1/)
+    - [쓰기만 했던 개발자가 궁금해서 찾아본 쿠버네티스 내부 2편](https://tech.kakaopay.com/post/jack-k8s-internals-part-2/)
 
 <p align="center">
 <p align="center">
